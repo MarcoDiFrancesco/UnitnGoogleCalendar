@@ -1,7 +1,7 @@
 # Unitn Google Calendar
 This program makes Google Calendar update automaticly when lectures change.
 
-<img src="assets/images/CalendarScreen.png">
+![https://i.imgur.com/ccVpGXk.png](https://i.imgur.com/ccVpGXk.png)
 
 The program is able to take every `n` hours the calendar from the university's website [EasyAcademy](https://easyacademy.unitn.it/AgendaStudentiUnitn/) from the link, and downloading the `.ics` file.  
 
